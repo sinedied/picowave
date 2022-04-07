@@ -10,6 +10,11 @@
 - !Schema: https://forum.arduino.cc/t/esp8266-i2s-et-udp-pour-transmettre-un-son-en-wifi/642110
 - https://github.com/atomic14/m5stack-core2-audio-monitor
 
+
+## FFT
+- https://github.com/kosme/arduinoFFT
+
+
 ## TTGO
 - Portable Sound Analyzer on ESP32: https://www.instructables.com/Portable-Sound-Analyzer-on-ESP32/
 - TTGO-Display: https://github.com/Xinyuan-LilyGO/TTGO-T-Display
